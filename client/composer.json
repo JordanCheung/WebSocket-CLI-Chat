@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ratchet/pawl": "^0.3.5",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
